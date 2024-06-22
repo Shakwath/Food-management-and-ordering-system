@@ -1,5 +1,5 @@
 ![image](https://github.com/Shakwath/Food-management-and-ordering-system/assets/153709386/c6ec564c-ced1-44cb-a16e-16f6713e563f)
-          **   Project Name** :  Food management and ordering system
+          **Project Name** :  Food management and ordering system
               Team Name     :  Vector Static
               Submitted By  :
                                 Meherajul Islam(C233267) ( Team_Leader )
